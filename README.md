@@ -1,1 +1,1 @@
-# o-Implementing-Semantic-Search-with-FAISS
+# Implementing-Semantic-Search-with-FAISS
