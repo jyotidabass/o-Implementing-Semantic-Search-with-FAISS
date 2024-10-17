@@ -1,6 +1,7 @@
 # Implementing-Semantic-Search-with-FAISS
 
 What are Semantic Search and FAISS?
+
 Semantic search and FAISS are related technologies used to search and retrieve information from large databases.
 Semantic search is a type of search that uses natural language processing (NLP) techniques to understand the meaning of a search query and return relevant results. It goes beyond matching keywords and considers the context and relationships between words. This can make search results more accurate and relevant to the user's intent.
 
